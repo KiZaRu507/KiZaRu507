@@ -14,13 +14,37 @@ body{
     height: 2.2rem;
 }
 h1{
+    font-size: 3rem;
     color: white;
+    text-shadow: 1px 1px yellow;
 }
 button{
     border: solid 0.7rem #3A3F5D ;
-    height: 6rem;
-    width: 6rem;
-    margin: 2rem;
+    height: 9rem;
+    width:9rem;
+    margin: 1rem;
     border-radius: 1rem;
     cursor: pointer;
+}
+#w{
+    background-image: url('images/crash.png');
+}
+#a{
+    background-image: url('images/kick.png');
+}
+#s{
+    background-image: url('images/snare.png');
+}
+#d{
+    background-image: url('images/tom1.png');
+
+}
+#j{
+    background-image: url('images/tom2.png');
+}
+#k{
+    background-image: url('images/tom3.png');
+}
+#l{
+    background-image: url('images/tom4.png');
 }
