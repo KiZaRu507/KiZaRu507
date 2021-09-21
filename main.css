@@ -48,3 +48,9 @@ button{
 #l{
     background-image: url('images/tom4.png');
 }
+@media screen and (max-width:600px){
+    .btn-container{
+        display: flex;
+        flex-direction: column;
+    }
+}
